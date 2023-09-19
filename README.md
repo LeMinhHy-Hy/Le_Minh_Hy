@@ -1,2 +1,2 @@
 # Le_Minh_Hy
-print("Hello word 123!")
+print("Good everning Danh Nguyen Nhat Minh!")
